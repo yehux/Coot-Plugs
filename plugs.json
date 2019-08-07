@@ -1,0 +1,63 @@
+[{
+    "name": "中午吃啥",
+    "explain": "每天中午随机告诉你吃什么",
+    "script_language": "Python",
+    "script_url": "https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/WhatToEat/eat.py",
+    "version": "1.0",
+    "author": "Coot",
+    "github": "https://github.com/yehuio/Coot-Plugs"
+},
+{
+    "name": "上班提醒",
+    "explain": "到点上班，提醒你上班",
+    "script_language": "Shell",
+    "script_url": "https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/goToWork/run.sh",
+    "version": "1.0",
+    "author": "Coot",
+    "github": "https://github.com/yehuio/Coot-Plugs"
+},
+{
+    "name": "下班提醒",
+    "explain": "到点下班，提醒你下班",
+    "script_language": "Shell",
+    "script_url": "https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/goOffWork/run.sh",
+    "version": "1.0",
+    "author": "Coot",
+    "github": "https://github.com/yehuio/Coot-Plugs"
+},
+{
+    "name": "喝水提醒",
+    "explain": "多喝水，体验健康人生",
+    "script_language": "Shell",
+    "script_url": "https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/drinkWater/run.sh",
+    "version": "1.0",
+    "author": "Coot",
+    "github": "https://github.com/yehuio/Coot-Plugs"
+},
+{
+    "name": "早安提醒",
+    "explain": "早上随机问好",
+    "script_language": "Shell",
+    "script_url": "https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/GoodMorning/run.sh",
+    "version": "1.0",
+    "author": "Coot",
+    "github": "https://github.com/yehuio/Coot-Plugs"
+},
+{
+    "name": "晚安提醒",
+    "explain": "到点了该睡觉了",
+    "script_language": "Shell",
+    "script_url": "https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/GoodNight/run.sh",
+    "version": "1.0",
+    "author": "Coot",
+    "github": "https://github.com/yehuio/Coot-Plugs"
+},
+{
+    "name": "生日提醒",
+    "explain": "提醒你重要的生日",
+    "script_language": "Shell",
+    "script_url": "https://raw.githubusercontent.com/yehuio/Coot-Plugs/master/libs/Birthday/run.sh",
+    "version": "1.0",
+    "author": "Coot",
+    "github": "https://github.com/yehuio/Coot-Plugs"
+}]
